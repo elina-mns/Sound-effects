@@ -1,4 +1,4 @@
-# PitchPerfect
+# Sound effects
 
 An app which records the sound and has options to use effects on it.
 
