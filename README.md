@@ -27,4 +27,4 @@ width=300, height=600,
 align="center"/>
 <img src="https://github.com/elina-mns/Sound-effects/blob/master/PitchPerfect/Assets.xcassets/3.png"
 width=300, height=600,
-align="right"/>
+align="left"/>
